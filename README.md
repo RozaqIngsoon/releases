@@ -2,7 +2,7 @@
 
 Aplikasi desktop hisab astronomis & pemetaan visibilitas hilal penentuan awal bulan Hijriah berbasis Ephemeris NASA JPL DE440s (1849–2150 M / 1266–1572 H).
 
-## 📥 Unduh Aplikasi (Siap Pakai tanpa Instalasi Python)
+## 📥 Unduh Aplikasi
 - **[Klik di sini untuk Mengunduh Kalkulator_Awal_Hijriah.exe](https://github.com/RozaqIngsoon/releases/raw/main/Kalkulator_Awal_Hijriah.exe)**
 
 ### Fitur Utama:
