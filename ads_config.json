@@ -1,0 +1,60 @@
+{
+  "enabled": true,
+  "rotation_interval_sec": 8,
+  "remote_json_url": "https://raw.githubusercontent.com/RozaqIngsoon/releases/main/ads_config.json",
+  "ads": [
+    {
+      "id": "pasaranjawa",
+      "badge": "Aplikasi Android",
+      "title": "Penghitung Jadwal Selametan, Kalender Pasaran, dll",
+      "subtitle": "Solusi praktis untuk menghitung jadwal secara cepat. Dilengkapi notifikasi dan sinkronisasi antar perangkat",
+      "cta_text": "Tersedia di Google Play Store ➔",
+      "url": "https://play.google.com/store/apps/details?id=com.ingsoon.pasaranjawa",
+      "bg_color": "#b3e7dc",
+      "border_color": "#6c0102",
+      "accent_color": "#d50102",
+      "badge_bg": "#d50102",
+      "icon": "📅"
+    },
+    {
+      "id": "sedulurku",
+      "badge": "Aplikasi Android",
+      "title": "Sedulurku. Pencatat silsilah digital",
+      "subtitle": "Kelola data keluarga Anda dengan mudah dan terorganisir. Catat mulai dari generasi tertinggi.",
+      "cta_text": "Catat Sekarang ➔",
+      "url": "https://play.google.com/store/apps/details?id=com.ingsoon.sedulurku",
+      "bg_color": "#ECFDF5",
+      "border_color": "#6EE7B7",
+      "accent_color": "#047857",
+      "badge_bg": "#059669",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+        {
+      "id": "ingpos",
+      "badge": "Aplikasi Android",
+      "title": "Ing-POS. Aplikasi toko multi outlet",
+      "subtitle": "Kontrol toko anda dalam genggaman, meski anda sedang bepergian. Mudah, cepat, dan handal. ",
+      "cta_text": "unduh ➔",
+      "url": "https://play.google.com/store/apps/details?id=com.ingsoon.ingpos",
+      "bg_color": "#F6F6F6",
+      "border_color": "#223125",
+      "accent_color": "#729969",
+      "badge_bg": "#3a5335",
+      "icon": "🛒"
+    },
+    {
+      "id": "ad-sponsor",
+      "badge": "PASANG IKLAN / SPONSOR",
+      "title": "Ingin Menampilkan Brand, Kampus, atau Produk Anda di Aplikasi Ini?",
+      "subtitle": "Slot banner ini mendukung pembaruan otomatis secara online. Hubungi pengembang untuk kerja sama sponsor atau dukungan.",
+      "cta_text": "Hubungi Pengembang ➔",
+      "url": "https://wa.me/6282231155961",
+      "bg_color": "#FFFBEB",
+      "border_color": "#FCD34D",
+      "accent_color": "#B45309",
+      "badge_bg": "#D97706",
+      "icon": "📢"
+    }
+  ]
+}
+
